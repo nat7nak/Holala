@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "108172574288",
+    "project_id": "foxy-foxy",
+    "storage_bucket": "foxy-foxy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108172574288:android:463adf9eeb7ca78f28db55",
+        "android_client_info": {
+          "package_name": "com.rifcode.holala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108172574288-ailv1bm995vgldqi86cthc1d9e6g2rv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rifcode.holala",
+            "certificate_hash": "df655aa5f7b98c8443d0ce2683d075fd701510aa"
+          }
+        },
+        {
+          "client_id": "108172574288-al3m70h198lh05po6200l077pbulgsh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8egneazYcYEBZMdgNJsZHBPYMZs1SopI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108172574288-al3m70h198lh05po6200l077pbulgsh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
